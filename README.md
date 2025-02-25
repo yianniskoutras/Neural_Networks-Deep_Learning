@@ -48,3 +48,9 @@ This repository contains solutions and implementations for various Deep Learning
    ```bash
    git clone https://github.com/your-username/deep-learning-exercises.git
    cd deep-learning-exercises
+
+2. Install dependencies and open the Jupyter notebooks:
+    ```bash
+    pip install -r requirements.txt
+    jupyter notebook
+
